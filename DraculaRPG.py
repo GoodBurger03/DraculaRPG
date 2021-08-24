@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# all imports
 import dice
 import random
 from subprocess import call
